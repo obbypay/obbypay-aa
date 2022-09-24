@@ -2,7 +2,7 @@
 // `mocha` standard functions and `expect` from `chai` are available globally
 // `Testkit`, `Network`, `Nodes` and `Utils` from `aa-testkit` are available globally too
 const path = require('path')
-const AA_PATH = '../agent.aa'
+const AA_PATH = '../base.aa'
 
 describe('Check simple AA', function () {
 	this.timeout(120000)
