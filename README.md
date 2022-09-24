@@ -1,15 +1,15 @@
-# Autonomous Agent template
+# Obbypay AA
 
 AA oscript:
 
 ```bash
-./agent.aa
+./base.aa
 ```
 
 Test file:
 
 ```bash
-./test/agent.test.oscript.js
+./test/base.test.oscript.js
 ```
 
 ## Usage
